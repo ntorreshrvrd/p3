@@ -3,6 +3,8 @@
  * Author: Dan Smith, 2015 (http://www.dbswebdev.com/)
  * Version: 1.0.0
  */
+
+$(document).ready(main);
 (function($) {
 
     $.decisionTree = function(element, options) {
