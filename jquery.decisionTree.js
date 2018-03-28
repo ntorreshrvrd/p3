@@ -314,4 +314,4 @@ $(document).ready(main);
 
     }
 
-})(jQuery);
+})($);
