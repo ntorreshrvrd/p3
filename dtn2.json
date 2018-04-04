@@ -1,19 +1,16 @@
 {
 	"id": "dtn2",
-	"question": "Is your computer running the Windows 10 Preview?",
+	"question": "Will your project require specialized or nascent infrastructure technology with a limited set of vendors/providers?",
+	"description": "<p>For instance, your team may have significant experience with surface water treatment technologies, but no experience with large scale new ocean desalination technology. Example: San Diego County Water Authority P3 Desalination Project with Poseidon Resources.</p>",
 	"answers": [
 
 		{
 			"text": "Yes",
-			"target": "dtn3"
+			"target": "dtn21"
 		},
 		{
-			"text": "No, I'm running Vista",
-			"target": "anode2"
-		},
-		{
-			"text": "No, I'm running XP",
-			"target": "anode2"
+			"text": "No",
+			"target": "dtn22"
 		}
 	]
 }
