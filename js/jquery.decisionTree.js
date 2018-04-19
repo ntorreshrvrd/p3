@@ -16,8 +16,6 @@ $(document).ready(main);
             node_prefix: 'dtn', // prefix for question nodes
             json_ext: 'json', // file extension for JSON requests
             cache_json: true, // cache JSON responses
-            loading_text: 'Loading...', // text for the 'Loading' overlay
-            loading_gif: "img/loading.gif", // location of the 'progress' animated GIF
             animation_speed: 600, // speed of transitions and effects
             question_extra_text: true, // show additional copy on node questions
             hide_original_content: true, // hide the content used to introduce the decision tree
