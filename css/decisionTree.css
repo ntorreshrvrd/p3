@@ -28,29 +28,6 @@ body {
 	text-decoration:none;
 	color:#000;}
 
-#decision-tree-loading {
-	position:fixed;
-	width:20em;
-	top:14%;
-	left:50%;
-	margin-left:-10em;
-	text-align:center;
-	border:1px solid #03152d;
-	border-radius:3px;
-	background-color: #fff;
-	opacity:.96;
-	z-index:200;
-	display:none;}
-
-#decision-tree-loading > p {
-	display: inline-block;
-	opacity:1;
-	line-height:2;
-	font-weight:700;}
-
-#decision-tree-loading > p img {
-	margin-top:8px;}
-
 .decisionTree {
 	margin-bottom:80px;}
 
